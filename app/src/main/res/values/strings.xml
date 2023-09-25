@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity &amp; Intent</string>
+    <string name="tc">By checking the box you agree to our <font color="#525BFF">Terms</font> and <font color="#525BFF">Conditions</font>.</string>
+    <string name="login">Already Have an Account? <font color="#525BFF">Login</font></string>
+</resources>
